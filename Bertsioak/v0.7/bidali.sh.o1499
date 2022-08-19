@@ -1,0 +1,54 @@
+grep: /tmp/1499.1.all.q/machines: No existe el fichero o el directorio
+*** Error in `./probatu_auzokoak': free(): invalid next size (normal): 0x0000000001fcc980 ***
+======= Backtrace: =========
+/lib64/libc.so.6(+0x7c619)[0x2aed989e7619]
+/lib64/libc.so.6(__open_catalog+0x6a4)[0x2aed9899f444]
+/lib64/libc.so.6(catopen+0x48)[0x2aed9899eab8]
+./probatu_auzokoak[0x408106]
+./probatu_auzokoak[0x40ceb3]
+/lib64/libpthread.so.0(+0xf5e0)[0x2aed9875e5e0]
+./probatu_auzokoak[0x403edf]
+./probatu_auzokoak[0x404bbf]
+./probatu_auzokoak[0x4039e2]
+/lib64/libc.so.6(__libc_start_main+0xf5)[0x2aed9898cc05]
+./probatu_auzokoak[0x4038e9]
+======= Memory map: ========
+00400000-004bb000 r-xp 00000000 00:28 44982849                           /home/wmpetali/AlexCosta/v0.7/probatu_auzokoak
+006ba000-006bb000 r--p 000ba000 00:28 44982849                           /home/wmpetali/AlexCosta/v0.7/probatu_auzokoak
+006bb000-006bf000 rw-p 000bb000 00:28 44982849                           /home/wmpetali/AlexCosta/v0.7/probatu_auzokoak
+006bf000-00710000 rw-p 00000000 00:00 0 
+01fa3000-01fed000 rw-p 00000000 00:00 0                                  [heap]
+2aed98229000-2aed9824a000 r-xp 00000000 08:01 1977                       /usr/lib64/ld-2.17.so
+2aed9824a000-2aed9824c000 rw-p 00000000 00:00 0 
+2aed98255000-2aed98295000 rw-p 00000000 00:00 0 
+2aed9844a000-2aed9844b000 r--p 00021000 08:01 1977                       /usr/lib64/ld-2.17.so
+2aed9844b000-2aed9844c000 rw-p 00022000 08:01 1977                       /usr/lib64/ld-2.17.so
+2aed9844c000-2aed9844d000 rw-p 00000000 00:00 0 
+2aed9844d000-2aed9854e000 r-xp 00000000 08:01 1992                       /usr/lib64/libm-2.17.so
+2aed9854e000-2aed9874d000 ---p 00101000 08:01 1992                       /usr/lib64/libm-2.17.so
+2aed9874d000-2aed9874e000 r--p 00100000 08:01 1992                       /usr/lib64/libm-2.17.so
+2aed9874e000-2aed9874f000 rw-p 00101000 08:01 1992                       /usr/lib64/libm-2.17.so
+2aed9874f000-2aed98766000 r-xp 00000000 08:01 2010                       /usr/lib64/libpthread-2.17.so
+2aed98766000-2aed98965000 ---p 00017000 08:01 2010                       /usr/lib64/libpthread-2.17.so
+2aed98965000-2aed98966000 r--p 00016000 08:01 2010                       /usr/lib64/libpthread-2.17.so
+2aed98966000-2aed98967000 rw-p 00017000 08:01 2010                       /usr/lib64/libpthread-2.17.so
+2aed98967000-2aed9896b000 rw-p 00000000 00:00 0 
+2aed9896b000-2aed98b23000 r-xp 00000000 08:01 1984                       /usr/lib64/libc-2.17.so
+2aed98b23000-2aed98d23000 ---p 001b8000 08:01 1984                       /usr/lib64/libc-2.17.so
+2aed98d23000-2aed98d27000 r--p 001b8000 08:01 1984                       /usr/lib64/libc-2.17.so
+2aed98d27000-2aed98d29000 rw-p 001bc000 08:01 1984                       /usr/lib64/libc-2.17.so
+2aed98d29000-2aed98d2e000 rw-p 00000000 00:00 0 
+2aed98d2e000-2aed98d43000 r-xp 00000000 08:01 35                         /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+2aed98d43000-2aed98f42000 ---p 00015000 08:01 35                         /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+2aed98f42000-2aed98f43000 r--p 00014000 08:01 35                         /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+2aed98f43000-2aed98f44000 rw-p 00015000 08:01 35                         /usr/lib64/libgcc_s-4.8.5-20150702.so.1
+2aed98f44000-2aed98f46000 r-xp 00000000 08:01 1990                       /usr/lib64/libdl-2.17.so
+2aed98f46000-2aed99146000 ---p 00002000 08:01 1990                       /usr/lib64/libdl-2.17.so
+2aed99146000-2aed99147000 r--p 00002000 08:01 1990                       /usr/lib64/libdl-2.17.so
+2aed99147000-2aed99148000 rw-p 00003000 08:01 1990                       /usr/lib64/libdl-2.17.so
+2aed9c000000-2aed9c021000 rw-p 00000000 00:00 0 
+2aed9c021000-2aeda0000000 ---p 00000000 00:00 0 
+7ffce0857000-7ffce087a000 rw-p 00000000 00:00 0                          [stack]
+7ffce089f000-7ffce08a1000 r-xp 00000000 00:00 0                          [vdso]
+ffffffffff600000-ffffffffff601000 r-xp 00000000 00:00 0                  [vsyscall]
+/opt/gridengine/default/spool/compute-1-0/job_scripts/1499: línea 22: 12949 Abortado                (`core' generado) ./probatu_auzokoak
