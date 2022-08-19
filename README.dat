@@ -1,0 +1,40 @@
+# Xaboizko-burbuillen-azterketa-konputazionala
+Gradu amaierako lanerako idatzi dudan simulazioaren fitxategiak eta bertsioak
+
+Deskargatzekotan "karpeta nagusia" soilik deskargatu, gero, barruan dauden karpeta guztien fitxategiak karpeta bakar batera mugitu, ondoren, exekutatu "simulatu" programa. 
+Linuxerako konpilatuta dago, beraz, beste sistema bat erabiltzekotan berriro konpilatu beharko da "exekutatu.sh" programako 4. lerroa erabiliz.
+
+"Bertsioak" karpetan programa eta modulu guztien garapen prozesua ikusi daitezke. "karpeta nagusia"-ren bertsioa 65. izan da.
+
+Hurrengo lerroetan fitxategien zerrenda aurkitu daiteke (guztien azalpenak txostenan aurkitu daiteke, 3. taldekoak ezik, hemen azalduko direnak):
+
+   --=1. programa nagusia=--
+      simulatu.f90
+     
+   --=2. moduluak=--
+      tipos.f90
+      parametroak.f90
+      auzokoak.f90
+      funtzioak.f90
+      mcf_matrices.f90
+      lokala.f90
+      bektoreak.f90
+      prestaketa.f90
+      indarrak.f90
+      muga.f90
+     
+   --=3. simulazioak errepikatzeko programak=--
+      marraztu.f90 --> simulazioa bukatu gabe amaitzen bada, programa honetan errorea eman duaen iterazioa jarri daiteke, iterazio hori arte simulazioa egiteko
+      hazia.f90    --> simulazioan erabiliko diren hasiera baldintzen zorizko zenbakien hazia lortzeko programa
+      bidali.sh    --> kalkuluak egiteko erabili den zerbitzarira lana bidaltzeko programa
+      exekutatu.sh --> konpilazioa eta zerbitzarirako bidaltze prozesua automatizatzeko programa, honek ere erroreenLog.dat fitxategia irakurriko du aurresan ditugun erroreen bila.
+      
+   --=4. probak egiteko programak=--
+      probatu_auzokoak.f90
+      probatu_funtzioak.f90
+      probatu_lokala.f90
+      probatu_bektoreak.f90
+      probatu_prestaketa.f90
+      probatu_indarrak.f90
+      probatu_muga.f90
+      
