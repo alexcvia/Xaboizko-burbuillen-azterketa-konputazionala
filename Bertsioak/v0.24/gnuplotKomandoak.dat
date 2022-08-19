@@ -1,0 +1,27 @@
+splot "datuLokala.dat" index    0 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index    1 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index    2 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index    3 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index    4 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index    5 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index    6 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index    7 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index    8 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index    9 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   10 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   11 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   12 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   13 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   14 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   15 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   16 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   17 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   18 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   19 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   20 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   21 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   22 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   23 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   24 using 1:2:3:4:5:6 w vectors lw 2 notitle,\
+"datuLokala.dat" index   24 using 1:2:3 pt 7 ps 1 notitle,\
+"datuLokala.dat" index   25 using 1:2:3:4:5:6 w vectors lw 2 notitle
