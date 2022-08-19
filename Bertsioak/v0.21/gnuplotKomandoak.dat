@@ -1,0 +1,13 @@
+splot "datuauzokoak.dat" index    0 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    1 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    2 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    3 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    4 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    5 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    6 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    7 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    8 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index    9 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index   10 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index   11 using 1:2:3 pt 7 ps 1 notitle,\
+"datuauzokoak.dat" index   12 using 1:2:3 pt 7 ps 1 notitle
