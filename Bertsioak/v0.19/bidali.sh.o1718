@@ -1,0 +1,10 @@
+grep: /tmp/1718.1.all.q/machines: No existe el fichero o el directorio
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+probatu_auzokoak   000000000040F3B3  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B4F858045E0  Unknown               Unknown  Unknown
+probatu_auzokoak   00000000004042CB  Unknown               Unknown  Unknown
+probatu_auzokoak   0000000000406EC7  Unknown               Unknown  Unknown
+probatu_auzokoak   0000000000403C62  Unknown               Unknown  Unknown
+libc-2.17.so       00002B4F85A32C05  __libc_start_main     Unknown  Unknown
+probatu_auzokoak   0000000000403B69  Unknown               Unknown  Unknown
