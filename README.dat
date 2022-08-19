@@ -6,6 +6,8 @@ Linuxerako konpilatuta dago, beraz, beste sistema bat erabiltzekotan berriro kon
 
 "Bertsioak" karpetan programa eta modulu guztien garapen prozesua ikusi daitezke. "karpeta nagusia"-ren bertsioa 65. izan da.
 
+"Animazioak" karpetan drive orri baten link-a aurkitu daiteke, irudi batzuk github-eko 25MB limitea baino pixkat handiagoak baitziren.
+
 Hurrengo lerroetan fitxategien zerrenda aurkitu daiteke (guztien azalpenak txostenan aurkitu daiteke, 3. taldekoak ezik, hemen azalduko direnak):
 
    --=1. programa nagusia=--
