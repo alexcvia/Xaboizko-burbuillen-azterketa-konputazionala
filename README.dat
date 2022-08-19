@@ -5,7 +5,8 @@ Deskargatzekotan "karpeta nagusia" soilik deskargatu, gero, barruan dauden karpe
 Linuxerako konpilatuta dago, beraz, beste sistema bat erabiltzekotan berriro konpilatu beharko da "exekutatu.sh" programako 4. lerroa erabiliz.
 
 "Bertsioak" karpetan programa eta modulu guztien garapen prozesua ikusi daitezke, beti, programetan ordu batzuk lan egin eta gero, bertsio berria sortu egin delako.
-Hemen bertsio bakoitzerako karpeta bat dago, baino guztia deskargatu nahi bada programen bertsioen segurtasun kopiak lor daiteke "Bertsioak" karpetako "helbidea" fitxategian.
+Hemen bertsio bakoitzerako karpeta bat dago, baino guztia deskargatu nahi bada programen bertsioen segurtasun kopiak lor daitezke "Bertsioak" karpetako "helbidea" fitxategian 
+dagoen drive helbidea kopiatuz.
 "karpeta nagusia"-ren bertsioa 65. izan da.
 
 "Animazioak" karpetan drive orri baten link-a aurkitu daiteke, irudi batzuk github-eko 25MB limitea baino pixkat handiagoak baitziren.
