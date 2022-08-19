@@ -1,0 +1,8 @@
+grep: /tmp/1622.1.all.q/machines: No existe el fichero o el directorio
+forrtl: severe (153): allocatable array or pointer is not allocated
+Image              PC                Routine            Line        Source             
+probatu_auzokoak   0000000000422A74  Unknown               Unknown  Unknown
+probatu_auzokoak   00000000004072E8  Unknown               Unknown  Unknown
+probatu_auzokoak   0000000000403B62  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1B4DDE3C05  __libc_start_main     Unknown  Unknown
+probatu_auzokoak   0000000000403A69  Unknown               Unknown  Unknown
