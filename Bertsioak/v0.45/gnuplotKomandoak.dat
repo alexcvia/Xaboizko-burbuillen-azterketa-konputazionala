@@ -1,0 +1,79 @@
+splot "datuPrestaketa.dat" index    0 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index    1 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index    2 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index    3 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index    4 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index    5 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index    6 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index    7 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index    8 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index    9 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   10 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   11 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   12 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   13 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   14 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   15 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   16 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   17 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   18 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   19 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   20 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   21 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   22 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   23 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   24 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   25 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   26 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   27 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   28 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   29 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   30 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   31 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   32 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   33 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   34 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   35 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   36 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   37 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   38 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   39 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   40 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   41 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   42 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   43 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   44 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   45 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   46 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   47 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   48 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   49 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   50 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa.dat" index   49 using 1:2:3 pt 7 ps 1 notitle,\
+"datuPrestaketa.dat" index   50 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuPrestaketa2.dat" index    0 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    1 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    2 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    3 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    4 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    5 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    6 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    7 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    8 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index    9 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   10 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   11 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   12 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   13 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   14 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   15 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   16 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   17 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   18 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   19 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   20 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   21 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   22 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   23 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   24 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle,\
+"datuPrestaketa2.dat" index   25 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "blue" notitle
