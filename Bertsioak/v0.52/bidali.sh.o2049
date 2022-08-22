@@ -1,0 +1,9 @@
+grep: /tmp/2049.1.all.q/machines: No such file or directory
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+probatu_indarrak   0000000000425D33  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B66974635E0  Unknown               Unknown  Unknown
+probatu_indarrak   000000000041A8E6  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B6697691C05  __libc_start_main     Unknown  Unknown
+probatu_indarrak   0000000000403AA9  Unknown               Unknown  Unknown
