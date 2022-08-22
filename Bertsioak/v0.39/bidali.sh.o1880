@@ -1,0 +1,10 @@
+grep: /tmp/1880.1.all.q/machines: No existe el fichero o el directorio
+forrtl: severe (61): format/variable-type mismatch, unit 45, file /home/wmpetali/AlexCosta/v0.39/datuBektoreak4.dat
+Image              PC                Routine            Line        Source             
+probatu_bektoreak  000000000041D17B  Unknown               Unknown  Unknown
+probatu_bektoreak  00000000004429F9  Unknown               Unknown  Unknown
+probatu_bektoreak  000000000041876F  Unknown               Unknown  Unknown
+probatu_bektoreak  0000000000419BD4  Unknown               Unknown  Unknown
+probatu_bektoreak  0000000000403DE2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B34BF100C05  __libc_start_main     Unknown  Unknown
+probatu_bektoreak  0000000000403CE9  Unknown               Unknown  Unknown
