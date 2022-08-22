@@ -1,0 +1,9 @@
+grep: /tmp/1901.1.all.q/machines: No existe el fichero o el directorio
+forrtl: severe (174): SIGSEGV, segmentation fault occurred
+Image              PC                Routine            Line        Source             
+probatu_bektoreak  0000000000422E23  Unknown               Unknown  Unknown
+libpthread-2.17.s  00002B9FE3A6B5E0  Unknown               Unknown  Unknown
+probatu_bektoreak  000000000041963B  Unknown               Unknown  Unknown
+probatu_bektoreak  0000000000403DE2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B9FE3C99C05  __libc_start_main     Unknown  Unknown
+probatu_bektoreak  0000000000403CE9  Unknown               Unknown  Unknown
