@@ -1,0 +1,53 @@
+splot "datuBektoreak.dat" index    0 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index    1 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index    2 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index    3 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index    4 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index    5 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index    6 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index    7 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index    8 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index    9 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   10 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   11 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   12 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   13 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   14 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   15 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   16 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   17 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   18 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   19 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   20 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   21 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   22 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   23 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   24 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   25 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   26 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   27 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   28 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   29 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   30 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   31 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   32 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   33 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   34 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   35 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   36 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   37 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   38 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   39 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   40 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   41 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   42 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   43 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   44 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   45 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   46 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   47 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   48 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   49 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   50 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle,\
+"datuBektoreak.dat" index   49 using 1:2:3 pt 7 ps 1 notitle,\
+"datuBektoreak.dat" index   50 using 1:2:3:4:5:6 w vectors lw 2 lt rgb "black" notitle
