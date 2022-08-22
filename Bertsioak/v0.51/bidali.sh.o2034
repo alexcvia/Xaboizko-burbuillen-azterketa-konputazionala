@@ -1,0 +1,24 @@
+grep: /tmp/2034.1.all.q/machines: No existe el fichero o el directorio
+forrtl: Stale file handle
+forrtl: severe (38): error during write, unit 109, file /home/wmpetali/AlexCosta/v0.51/erroreenLog.dat
+Image              PC                Routine            Line        Source             
+probatu_indarrak   000000000041F84B  Unknown               Unknown  Unknown
+probatu_indarrak   000000000044B9BC  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000447841  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000406818  Unknown               Unknown  Unknown
+probatu_indarrak   000000000041A143  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1E4814CC05  __libc_start_main     Unknown  Unknown
+probatu_indarrak   0000000000403AA9  Unknown               Unknown  Unknown
+forrtl: severe (28): CLOSE error, unit 109, file "Unknown"
+Image              PC                Routine            Line        Source             
+probatu_indarrak   00000000004241B2  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000420D0C  Unknown               Unknown  Unknown
+probatu_indarrak   000000000041F84B  Unknown               Unknown  Unknown
+probatu_indarrak   000000000044B9BC  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000447841  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000406818  Unknown               Unknown  Unknown
+probatu_indarrak   000000000041A143  Unknown               Unknown  Unknown
+probatu_indarrak   0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B1E4814CC05  __libc_start_main     Unknown  Unknown
+probatu_indarrak   0000000000403AA9  Unknown               Unknown  Unknown

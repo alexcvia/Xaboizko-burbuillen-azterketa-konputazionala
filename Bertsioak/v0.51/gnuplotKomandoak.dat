@@ -1,0 +1,24 @@
+set xrange [0.0:0.12]
+set yrange [0.0:0.12]
+set zrange [0.015:0.025]
+set cbrange [0.0:4e-7]
+splot "datuIndarrak.dat" index    0 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    0 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    1 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    1 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    2 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    2 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    3 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    3 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    4 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    4 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    5 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    5 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    6 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    6 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    7 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    7 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    8 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    8 using 1:2:3:4 pt 7 ps 1 palette notitle
+splot "datuIndarrak.dat" index    9 using 1:2:3:4 pt 7 ps 1 palette notitle,\
+"datuIndarrak4.dat" index    9 using 1:2:3:4 pt 7 ps 1 palette notitle
