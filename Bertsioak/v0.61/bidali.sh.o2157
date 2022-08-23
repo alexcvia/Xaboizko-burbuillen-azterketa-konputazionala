@@ -1,0 +1,9 @@
+grep: /tmp/2157.1.all.q/machines: No existe el fichero o el directorio
+forrtl: severe (61): format/variable-type mismatch, unit 52, file /home/wmpetali/AlexCosta/v0.61/gnuplotKomandoak.dat
+Image              PC                Routine            Line        Source             
+probatu_muga       0000000000422EDB  Unknown               Unknown  Unknown
+probatu_muga       0000000000448759  Unknown               Unknown  Unknown
+probatu_muga       000000000041FBBD  Unknown               Unknown  Unknown
+probatu_muga       0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002B5B84309C05  __libc_start_main     Unknown  Unknown
+probatu_muga       0000000000403AA9  Unknown               Unknown  Unknown
