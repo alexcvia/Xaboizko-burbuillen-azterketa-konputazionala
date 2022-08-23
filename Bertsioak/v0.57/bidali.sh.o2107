@@ -1,0 +1,2 @@
+grep: /tmp/2107.1.all.q/machines: No existe el fichero o el directorio
+/opt/gridengine/default/spool/compute-1-1/job_scripts/2107: línea 22: ./probatu_muga: No existe el fichero o el directorio
