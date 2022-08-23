@@ -1,0 +1,22 @@
+grep: /tmp/2177.1.all.q/machines: No such file or directory
+forrtl: Stale file handle
+forrtl: severe (38): error during write, unit 109, file /home/wmpetali/AlexCosta/v0.64/erroreenLog.dat
+Image              PC                Routine            Line        Source             
+probatu_muga       0000000000422FAB  Unknown               Unknown  Unknown
+probatu_muga (del  000000000044F11C  Unknown               Unknown  Unknown
+probatu_muga (del  000000000044AFA1  Unknown               Unknown  Unknown
+probatu_muga (del  000000000041E9E6  Unknown               Unknown  Unknown
+probatu_muga (del  0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE630768C05  __libc_start_main     Unknown  Unknown
+probatu_muga (del  0000000000403AA9  Unknown               Unknown  Unknown
+forrtl: severe (28): CLOSE error, unit 109, file "Unknown"
+Image              PC                Routine            Line        Source             
+probatu_muga (del  0000000000427912  Unknown               Unknown  Unknown
+probatu_muga (del  000000000042446C  Unknown               Unknown  Unknown
+probatu_muga (del  0000000000422FAB  Unknown               Unknown  Unknown
+probatu_muga (del  000000000044F11C  Unknown               Unknown  Unknown
+probatu_muga (del  000000000044AFA1  Unknown               Unknown  Unknown
+probatu_muga (del  000000000041E9E6  Unknown               Unknown  Unknown
+probatu_muga (del  0000000000403BA2  Unknown               Unknown  Unknown
+libc-2.17.so       00002AE630768C05  __libc_start_main     Unknown  Unknown
+probatu_muga (del  0000000000403AA9  Unknown               Unknown  Unknown
